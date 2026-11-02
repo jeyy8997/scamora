@@ -1,0 +1,701 @@
+teks,label,sumber
+"bapak/ibu kami dari bri, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+waa kamu terpilih dpt mobil hubungi admin 0812-9988-7766 skrg juga sblm hangus,phishing_hadiah,template_informal
+"pembeli shopee sudah transfer, tinggal verifikasi bit.ly/v3rif + otp biar masuk saldo",marketplace_palsu,template_informal
+jgn kasih tau kode otp kamu ke siapa pun ya lagi rame penipuan,aman,template_informal
+loker wfh gaji 4jt/bln gampang cuma like youtube daftar http://klaim-bankxyz bayar seragam 1 juta dulu,lowongan_kerja_palsu,template_informal
+"waa kamu terpilih dpt paket umroh, hubungi admin 0856-1122-3344 skrg juga sblm hangus",phishing_hadiah,template_informal
+"info Telkomsel: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+"kamu dapet hadiah motor dr BCA, buat ngeklaim transfer 100rb dulu ke norek 6374684234",phishing_hadiah,template_informal
+"pinjaman kamu nunggak, segera lunasi 1 juta ke 1234567890, kalo ngga data disebar",pinjol_ilegal,template_informal
+"Gabung member VIP Quotex! Dana dikelola trader profesional, untung pasti. Daftar lewat wa.me/62778800, kuota terbatas. Buruan sebelum penuh.",investasi_bodong,template_formal
+"Oke, tugas kelompok sudah aku kirim lewat email. Sampai ketemu!",aman,template_formal
+"SELAMAT! Anda pemenang program loyalitas Telkomsel, hadiah Rp 75. Isi data di bit.ly/Telkomselhadiah dan kirim kode OTP. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+"kripto auto cuan, ga mungkin rugi, kirim 2jt ke 6374684234",investasi_bodong,template_informal
+selamat no kamu kepilih menang motor. buka bit.ly/v3rif isi data sama kode otp ya,phishing_hadiah,template_informal
+"Pinjol resmi OJK! Bunga 0%, cair dalam 10 menit, tanpa ribet. Isi data + akses kontak HP untuk verifikasi. Ajukan sekarang sebelum promo berakhir.",pinjol_ilegal,template_formal
+Jadi besok kita ketemuan di kampus jam 10 ya? Jangan lupa bawa print out tugasnya.,aman,template_formal
+"INFO LOKER! kerja like, subscribe dan review produk, bayaran harian Rp 800 ribu. Hubungi HRD 0821-9012-5566. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+"kaamu dapet hadiah paket umroh dr Telkomsel, buat ngeklaim transfer 250rb dulu ke norek 1234567890",phishing_hadiah,template_informal
+"kerja sampingan dr rumah komisi 6jt, deposit dulu 250rb buat modal tugas",lowongan_kerja_palsu,template_informal
+"Eh, besok kita ketemu di perpus jam 9 ya. Sampai ketemu!",aman,template_formal
+"Peluang emas bersama Quotex! Modal Rp 25rb balik Rp 1 juta per minggu. Daftar lewat wa.me/62345600, kuota terbatas. Buruan sebelum penuh.",investasi_bodong,template_formal
+aanda menang undian Shopee hadiah emas 10 gram tf biaya admin 100rb dlu biar cair,phishing_hadiah,template_informal
+km pemenang giveaway paket umroh! klik http://klaim-bank.xyz trus kirim pin ya,phishing_hadiah,template_informal
+km pemenang giveaway paket umroh! klik https://cair-dana.top trus kirim pin ya,phishing_hadiah,template_informal
+Perhatian! Tagihan Quotex Anda jatuh tempo. Hutang belum dilunasi sampai hari ini. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"aaku mau beli, kirim dulu no rek + kode otp buat konfirmasi fb marketplace",marketplace_palsu,template_informal
+Pesanan Shopee Anda tertahan pembayaran. Segera klik http://cek-pengiriman.click dan bayar ongkir tambahan Rp 50.000 untuk aktivasi pengiriman.,marketplace_palsu,template_formal
+"Kami kurir JNE. Paket Anda kena ongkir tambahan, segera transfer Rp 100.000 ke rekening ini agar paket tidak dikembalikan.",marketplace_palsu,template_formal
+"Halo, tugas kelompok sudah aku kirim lewat email. Sampai ketemu!",aman,template_formal
+butuh admin online no exp dibayar harian chat bitly/v3rif ada biaya daftar 1 juta,lowongan_kerja_palsu,template_informal
+"loker wfh gaji 8jt/bln gampang cuma like youtube, daftar http://klaim-bank.xyz, bayar seragam 250rb dulu",lowongan_kerja_palsu,template_informal
+"wa kamu terpilih dpt mobil, hubungi admin 0856-1122-3344 skrg juga sblm hangus",phishing_hadiah,template_informal
+PERINGATAN BRI: Biaya admin naik menjadi Rp 150.000 per bulan. Hubungi 0813-3456-1122 untuk membatalkan. Waktu Anda 30 menit.,fake_call_center,template_formal
+"kamu dapet hadiah uang 50 juta dr dana, buat ngeklaim transfer 100rb dulu ke norek 9081726354",phishing_hadiah,template_informal
+"Pesanan di Shopee sudah dibayar pembeli. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Shopee. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+Cuan dari Quotex tanpa ribet! Modal Rp 50rb balik Rp 1 juta per minggu. Transfer ke rekening admin untuk aktivasi akun. Buruan sebelum penuh.,investasi_bodong,template_formal
+"taagihan wifi bulan ini 1 juta ya, nanti aku tf ke kamu",aman,template_informal
+Gabung member VIP Binomo! Modal Rp 25rb balik Rp 1 juta per minggu. Transfer ke rekening admin untuk aktivasi akun. Slot tinggal 5 orang!,investasi_bodong,template_formal
+kartu kamu bermasalah klik bitly/klaimku buat update data m-banking segera,fake_call_center,template_informal
+pinjaman kamu nunggak segera lunasi 250rb ke 6374684234 kalo ngga data disebar,pinjol_ilegal,template_informal
+"biaaya admin DANA naik jd 150rb, klik bit.ly/klaimku kalo mau tetep pake tarif lama",fake_call_center,template_informal
+"SELAMAT! Anda pemenang program loyalitas Mandiri, hadiah Rp 25. Klaim di http://Mandiri-klaim.digital dengan verifikasi PIN/OTP. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+"Peluang emas bersama Binomo! Dana dikelola trader profesional, untung pasti. Transfer ke rekening admin untuk aktivasi akun. Promo berakhir malam ini.",investasi_bodong,template_formal
+kerja sampingan dr rumah komisi 4jt deposit dulu 100rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"Halo, ini petugas BRI. Rekening Anda akan diblokir karena data belum diperbarui. Hubungi 0813-7788-1122 untuk membatalkan. Mohon segera, ini mendesak.",fake_call_center,template_formal
+PEMENANG UNDIAN! Rekening Anda memenangkan undian DANA senilai Rp 50. Isi data di bit.ly/DANAhadiah dan kirim kode OTP. Batas 1 jam.,phishing_hadiah,template_formal
+"join grup trading quotex, untung dijamin tiap hari, depo awal 100rb",investasi_bodong,template_informal
+"Gabung member VIP Quotex! Dana dikelola trader profesional, untung pasti. Transfer ke rekening admin untuk aktivasi akun. Buruan sebelum penuh.",investasi_bodong,template_formal
+"Dibutuhkan segera: kerja like, subscribe dan review produk, bayaran harian Rp 800 ribu. Hubungi HRD 0821-7788-5566. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+"Halo, ini petugas Mandiri. Terdeteksi transaksi mencurigakan di kartu Anda. Konfirmasi PIN dan kode OTP sekarang. Mohon segera, ini mendesak.",fake_call_center,template_formal
+Cuan dari Binomo-like tanpa ribet! Modal Rp 100rb balik Rp 1 juta/minggu. Diatur mentor profesional. Transfer ke rekening admin untuk aktivasi akun.,investasi_bodong,template_formal
+"Pesanan di OLX sudah dibayar pembeli. Dana tertahan, perlu konfirmasi rekening. Masukkan PIN ATM di http://OLX-cair.xyz. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+Kami tim penagihan Robot Trading. Anda terlambat bayar Rp 5000 ribu. Foto KTP Anda akan kami sebarkan. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"Info resmi: Anda pemenang program loyalitas BCA, hadiah Rp 100. Klaim di http://BCA-klaim.online dengan verifikasi PIN/OTP. Batas 1 jam.",phishing_hadiah,template_formal
+"Peluang emas bersama Binomo! Dana dikelola trader profesional, untung pasti. Ajak teman dapat bonus referral. Slot tinggal 5 orang!",investasi_bodong,template_formal
+selamat no kamu kepilih menang mobil. buka bit.ly/klaimku isi data sama kode otp ya,phishing_hadiah,template_informal
+"Lowongan WFH: kerja like, subscribe dan review produk, bayaran harian Rp 300 ribu. Chat admin di t.me/loker2201. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+"info loker part time gaji 6jt tanpa syarat, tf 250rb utk pelatihan",lowongan_kerja_palsu,template_informal
+"join grup trading Quotex, untung dijamin tiap hari, depo awal 500rb",investasi_bodong,template_informal
+"Lowongan WFH: part time dari rumah, 1 jam sehari, penghasilan Rp 7 juta. Daftar di wa.me/62901200 sekarang. Biaya administrasi Rp 200.000 di awal.",lowongan_kerja_palsu,template_formal
+"Selamat! Pembeli sudah membayar lewat OLX. Dana tertahan, perlu konfirmasi rekening. Masukkan PIN ATM di http://OLX-cair.online. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Dicari CS online tanpa pengalaman, gaji harian Rp 500rb. Syarat: like 20 produk dulu, top up saldo Rp 200.000 untuk aktivasi akun. Chat sekarang!",lowongan_kerja_palsu,template_formal
+kerjaa sampingan dr rumah komisi 6jt deposit dulu 250rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"butuh admin online no exp dibayar harian, chat bit.ly/v3rif, ada biaya daftar 1 juta",lowongan_kerja_palsu,template_informal
+"aaku mau beli, kirim dulu no rek + kode otp buat konfirmasi FB Marketplace",marketplace_palsu,template_informal
+"join grup trading kripto, untung dijamin tiap hari, depo awal 1 juta",investasi_bodong,template_informal
+ajak teman dpt bonus referral setor 100rb langsung return mingguan,investasi_bodong,template_informal
+"quotex aauto cuan, ga mungkin rugi, kirim 250rb ke 7788990011",investasi_bodong,template_informal
+"INFO LOKER! admin online gaji Rp 8 juta/bulan tanpa pengalaman. Chat admin di t.me/loker7788. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+"Halo, ini petugas DANA. Rekening Anda akan diblokir karena data belum diperbarui. Klik http://DANA-care.online untuk verifikasi. Waktu Anda 30 menit.",fake_call_center,template_formal
+info bca: ada transaksi aneh di rekening konfirmasi pin dlu biar aman,fake_call_center,template_informal
+km pemenang giveaway uang 50 juta! klik https://cair-dana.top trus kirim pin ya,phishing_hadiah,template_informal
+"halo kak ini cs bri, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+"loker wfh gaji 8jt/bln gampang cuma like youtube, daftar https://cair-dana.top, bayar seragam 500rb dulu",lowongan_kerja_palsu,template_informal
+"Siang, jadwal kuliah perpus dimajukan jam 10. Sampai ketemu!",aman,template_formal
+Dibutuhkan segera: admin online gaji Rp 7 juta/bulan tanpa pengalaman. Hubungi HRD 0821-9012-5566. Wajib deposit Rp 150.000 untuk pelatihan.,lowongan_kerja_palsu,template_formal
+"INFO LOKER! admin online gaji Rp 3 juta/bulan tanpa pengalaman. Daftar di wa.me/62345600 sekarang. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+besok ketemuaan di perpus jam 15 ya jangan lupa bawa laptop,aman,template_informal
+"makasih ya udah tf patungan kemarin, aku udah terima",aman,template_informal
+INFO LOKER! admin online gaji Rp 3 juta/bulan tanpa pengalaman. Daftar di wa.me/62345600 sekarang. Wajib deposit Rp 150.000 untuk pelatihan.,lowongan_kerja_palsu,template_formal
+"Siang, tugas kelompok sudah aku kirim lewat email. Jangan lupa bawa laptop.",aman,template_formal
+"info Mandiri: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+Pesanan Shopee Anda tertahan pembayaran. Segera klik http://resi-paket.top dan bayar ongkir tambahan Rp 50.000 untuk aktivasi pengiriman.,marketplace_palsu,template_formal
+"Yth nasabah Jenius, rekening Anda akan diblokir dalam 1 jam. Segera konfirmasi PIN & OTP di nomor kami 0813-9999-8888 agar tidak terblokir permanen.",fake_call_center,template_formal
+"biaya admin DANA naik jd 150rb, klik bit.ly/v3rif kalo mau tetep pake tarif lama",fake_call_center,template_informal
+km pemenaang giveaway uang 50 juta klik http://klaim-bankxyz trus kirim pin ya,phishing_hadiah,template_informal
+"Kami dari Customer Care Telkomsel. Terdeteksi transaksi mencurigakan di kartu Anda. Konfirmasi PIN dan kode OTP sekarang. Mohon segera, ini mendesak.",fake_call_center,template_formal
+km pemenang giveaway iphone 15 klik https://cair-danatop trus kirim pin ya,phishing_hadiah,template_informal
+"Lowongan WFH: part time dari rumah, 1 jam sehari, penghasilan Rp 8 juta. Chat admin di t.me/loker7788. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+"modaal 100rb bisa jd 5jt seminggu, profit pasti, tf ke norek 7788990011 buat daftar",investasi_bodong,template_informal
+pinjaman kamu nunggak segera lunasi 2jt ke 7788990011 kalo ngga data disebar,pinjol_ilegal,template_informal
+"info loker part time gaji 3jt tanpa syarat, tf 250rb utk pelatihan",lowongan_kerja_palsu,template_informal
+"Promo Quotex VIP: bonus deposit 100% hari ini saja. Saya sudah wd Rp 50 juta, cek bukti screenshot. Yang mau langsung daftar klik link.",investasi_bodong,template_formal
+"nanti aku transfer uang kos 1 juta ya, kirim no rek kamu",aman,template_informal
+biaaya admin mandiri naik jd 150rb klik bitly/klaimku kalo mau tetep pake tarif lama,fake_call_center,template_informal
+"biaya admin shopee naik jd 150rb, klik bit.ly/v3rif kalo mau tetep pake tarif lama",fake_call_center,template_informal
+"Butuh dana tunai? Pinjaman online cair 5 menit tanpa BI checking, tanpa agunan. Limit hingga Rp 20 juta. KTP saja cukup! Daftar: pinjol-cepat.top",pinjol_ilegal,template_formal
+"Pesanan di Facebook Marketplace sudah dibayar pembeli. Untuk melepas dana, klik link verifikasi. Kirim kode OTP ke admin Facebook Marketplace. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+"kaartu kamu bermasalah, klik bit.ly/v3rif buat update data m-banking segera",fake_call_center,template_informal
+"pembeli OLX sudah transfer, tinggal verifikasi bit.ly/klaimku + otp biar masuk saldo",marketplace_palsu,template_informal
+Ini kolektor pinjaman online. Anda terlambat bayar Rp 7500 ribu. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"info loker part time gaji 8jt tanpa syarat, tf 100rb utk pelatihan",lowongan_kerja_palsu,template_informal
+"Oke, nanti malam jadi makan bareng? Makasih banyak.",aman,template_formal
+Ini kolektor pinjaman online. Anda terlambat bayar Rp 10000 ribu. Segera transfer ke rekening ini atau data disebar ke kontak. Batas hari ini.,pinjol_ilegal,template_formal
+"Halo, ini petugas Telkomsel. Biaya admin naik menjadi Rp 150.000 per bulan. Hubungi 0813-3456-1122 untuk membatalkan. Waktu Anda 30 menit.",fake_call_center,template_formal
+"PEMENANG UNDIAN! Anda pemenang program loyalitas Telkomsel, hadiah Rp 100. Isi data di bit.ly/Telkomselhadiah dan kirim kode OTP. Batas 1 jam.",phishing_hadiah,template_formal
+"kaami kolektor, telat 5 hari, kami hubungi keluarga + kantor kamu kalo ga lunas",pinjol_ilegal,template_informal
+"loker wfh gaaji 6jt/bln gampang cuma like youtube, daftar bit.ly/klaimku, bayar seragam 2jt dulu",lowongan_kerja_palsu,template_informal
+kamu udah makan aku bawain nasi ke perpus,aman,template_informal
+tagihan Telkomsel menunggak 7 hari bayar hari ini atau kontak darurat kami teror,pinjol_ilegal,template_informal
+"admin olx: dana belum cair, tf 250rb biaya verifikasi dulu",marketplace_palsu,template_informal
+bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak tf ke 7788990011,pinjol_ilegal,template_informal
+"butuh admin online no exp dibayar harian, chat http://klaim-bank.xyz, ada biaya daftar 1 juta",lowongan_kerja_palsu,template_informal
+"Barang iPhone 15 Rp 2 juta saja (nego). Transfer dulu ke rekening ini, barang dikirim hari ini via kurir instan. DM ya!",marketplace_palsu,template_formal
+"Kami dari Customer Care Indosat. Terdeteksi transaksi mencurigakan di kartu Anda. Konfirmasi PIN dan kode OTP sekarang. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"pinjaaman kamu nunggak, segera lunasi 250rb ke 1234567890, kalo ngga data disebar",pinjol_ilegal,template_informal
+"loker wfh gaji 8jt/bln gampang cuma like youtube, daftar bit.ly/v3rif, bayar seragam 500rb dulu",lowongan_kerja_palsu,template_informal
+modaal 100rb bisa jd 5jt seminggu profit pasti tf ke norek 9081726354 buat daftar,investasi_bodong,template_informal
+"kaamu dapet hadiah paket umroh dr shopee, buat ngeklaim transfer 1 juta dulu ke norek 9081726354",phishing_hadiah,template_informal
+"kami kolektor, telat 5 hari, kami hubungi keluarga + kantor kamu kalo ga lunas",pinjol_ilegal,template_informal
+"anda menang undian Shopee hadiah uang 50 juta, tf biaya admin 250rb dlu biar cair",phishing_hadiah,template_informal
+Gabung member VIP Binomo! Modal Rp 75rb balik Rp 1 juta per minggu. Transfer ke rekening admin untuk aktivasi akun. Buruan sebelum penuh.,investasi_bodong,template_formal
+"Info resmi: Anda pemenang program loyalitas Mandiri, hadiah Rp 100. Hubungi CS 0812-2201-7890 dan siapkan PIN ATM. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+"INFO LOKER! part time dari rumah, 1 jam sehari, penghasilan Rp 3 juta. Chat admin di t.me/loker3456. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"butuh admin online no exp dibayar harian, chat bit.ly/v3rif, ada biaya daftar 250rb",lowongan_kerja_palsu,template_informal
+"Halo, ini petugas Shopee. Rekening Anda akan diblokir karena data belum diperbarui. Klik http://Shopee-care.digital untuk verifikasi. Mohon segera, ini mendesak.",fake_call_center,template_formal
+"Gabung member VIP Quotex! Profit 10% per hari, dijamin tanpa rugi. Transfer ke rekening admin untuk aktivasi akun. Slot tinggal 5 orang!",investasi_bodong,template_formal
+Selamat! Anda beruntung. Rekening Anda memenangkan undian Indosat senilai Rp 50. Hubungi CS 0812-2201-7890 dan siapkan PIN ATM. Batas 1 jam.,phishing_hadiah,template_formal
+"pembeli fb marketplace sudah transfer, tinggal verifikasi http://klaim-bank.xyz + otp biar masuk saldo",marketplace_palsu,template_informal
+"wa kamu terpilih dpt iphone 15, hubungi admin 0812-9988-7766 skrg juga sblm hangus",phishing_hadiah,template_informal
+SELAMAT! Anda terpilih sebagai pemenang undian Mandiri. Hadiah umroh gratis + Rp 10 juta. Klaim sekarang di http://klaim-hadiah.digital sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+"promo tokopedia lagi diskon, mau beli bareng?",aman,template_informal
+kerjaa sampingan dr rumah komisi 4jt deposit dulu 100rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"butuh admin online no exp dibayar harian, chat bit.ly/klaimku, ada biaya daftar 2jt",lowongan_kerja_palsu,template_informal
+"INFO LOKER! Dibutuhkan admin marketplace, gaji Rp 7 jt/bln, WFH, cukup like & subscribe. Daftar: wa.me/62812xxx. Deposit pelatihan Rp 150.000.",lowongan_kerja_palsu,template_formal
+"kaami kolektor, telat 3 hari, kami hubungi keluarga + kantor kamu kalo ga lunas",pinjol_ilegal,template_informal
+"tagihan telkomsel menunggak 3 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"Halo, tugas kelompok sudah aku kirim lewat email. Makasih banyak.",aman,template_formal
+Kami dari Customer Care BCA. Terdeteksi transaksi mencurigakan di kartu Anda. Klik http://BCA-care.digital untuk verifikasi. Waktu Anda 30 menit.,fake_call_center,template_formal
+selaamat no kamu kepilih menang iphone 15. buka https://cair-dana.top isi data sama kode otp ya,phishing_hadiah,template_informal
+"INFO LOKER! kerja like, subscribe dan review produk, bayaran harian Rp 500 ribu. Daftar di wa.me/62901200 sekarang. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"taagihan bca menunggak 7 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"Barang sepeda lipat Rp 2 juta saja (nego). Transfer dulu ke rekening ini, barang dikirim hari ini via kurir instan. DM ya!",marketplace_palsu,template_formal
+"Siang, besok kita ketemu di kantin jam 10 ya. Kabari kalau telat ya.",aman,template_formal
+Cuan dari trading signal emas tanpa ribet! Modal Rp 100rb balik Rp 1 juta/minggu. Diatur mentor profesional. Transfer ke rekening admin untuk aktivasi akun.,investasi_bodong,template_formal
+"bapak/ibu kami dari BCA, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+"pembeli Shopee sudah transfer, tinggal verifikasi https://cair-dana.top + otp biar masuk saldo",marketplace_palsu,template_informal
+"Oke, besok kita ketemu di kantin jam 13 ya. Makasih banyak.",aman,template_formal
+"taagihan DANA menunggak 7 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"Ada pembeli serius di OLX. Kurir menunggu, verifikasi dulu. Kirim kode OTP ke admin OLX. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+hadiah ulang tahun buat adik udah aku beli tinggal bungkus,aman,template_informal
+"loker wfh gaji 8jt/bln gampang cuma like youtube, daftar bit.ly/klaimku, bayar seragam 250rb dulu",lowongan_kerja_palsu,template_informal
+pembeli FB Marketplace sudah transfer tinggal verifikasi https://cair-danatop + otp biar masuk saldo,marketplace_palsu,template_informal
+PENAGIHAN! Anda memiliki tunggakan pinjol Rp 1.000.000. Bayar hari ini atau kami laporkan ke keluarga & kantor Anda. Transfer ke 0987654321.,pinjol_ilegal,template_formal
+"tagihan Telkomsel menunggak 5 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+aku mau beli kirim dulu no rek + kode otp buat konfirmasi OLX,marketplace_palsu,template_informal
+Info resmi: Nomor Anda terpilih mendapat hadiah Rp 25 dari Indosat. Hubungi CS 0812-7788-7890 dan siapkan PIN ATM. Segera sebelum hadiah dibatalkan.,phishing_hadiah,template_formal
+Perhatian! Tagihan Crypto Anda jatuh tempo. Pinjaman Anda menunggak 9012 hari. Kami akan hubungi seluruh keluarga dan atasan Anda. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+Perhatian! Tagihan Pinjaman Kilat Anda jatuh tempo. Pinjaman Anda menunggak 3456 hari. Kami akan hubungi seluruh keluarga dan atasan Anda. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+Ini kolektor pinjaman online. Pinjaman Anda menunggak 9012 hari. Foto KTP Anda akan kami sebarkan. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+kerja sampingan dr rumah komisi 8jt deposit dulu 500rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"PERINGATAN DANA: Terdeteksi transaksi mencurigakan di kartu Anda. Klik http://DANA-care.online untuk verifikasi. Mohon segera, ini mendesak.",fake_call_center,template_formal
+Gabung member VIP Quotex! Modal Rp 50rb balik Rp 1 juta per minggu. Ajak teman dapat bonus referral. Promo berakhir malam ini.,investasi_bodong,template_formal
+halo kak ini cs bca akun kakak mau diblokir tolong kasih kode otp yg masuk ya,fake_call_center,template_informal
+km pemenang giveaway emas 10 gram! klik bit.ly/v3rif trus kirim pin ya,phishing_hadiah,template_informal
+Pesanan TikTok Shop Anda tertahan pembayaran. Segera klik http://resi-paket.top dan bayar ongkir tambahan Rp 50.000 untuk aktivasi pengiriman.,marketplace_palsu,template_formal
+"Gabung grup VIP arbitrage crypto. Bukti transfer member: Rp 20 juta masuk hari ini. Minimal deposit Rp 500rb. Tidak perlu ngerti trading, sistem yang kerja!",investasi_bodong,template_formal
+Selamat! Anda diterima kerja sebagai admin online. Langkah terakhir: transfer biaya training sebesar Rp 300.000 ke rekening 1234567890 a/n PT Maju Bersama.,lowongan_kerja_palsu,template_formal
+"PERINGATAN Mandiri: Rekening Anda akan diblokir karena data belum diperbarui. Konfirmasi PIN dan kode OTP sekarang. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"pinjaaman kamu nunggak, segera lunasi 1 juta ke 7788990011, kalo ngga data disebar",pinjol_ilegal,template_informal
+"aajak teman dpt bonus referral, setor 250rb langsung return mingguan",investasi_bodong,template_informal
+"Halo, saya petugas BTPN. Ada transaksi mencurigakan Rp 5.500.000 dari rekening Anda. Konfirmasi PIN untuk pembatalan sekarang.",fake_call_center,template_formal
+Informasi resmi Lazada: nomor Anda mendapatkan Rp 50 juta. Silakan isi data di http://bit.ly/klaimundian untuk verifikasi pemenang.,phishing_hadiah,template_formal
+Peluang emas bersama Binomo! Modal Rp 25rb balik Rp 1 juta per minggu. Transfer ke rekening admin untuk aktivasi akun. Slot tinggal 5 orang!,investasi_bodong,template_formal
+aadmin olx: dana belum cair tf 500rb biaya verifikasi dulu,marketplace_palsu,template_informal
+Informasi resmi Tokopedia: nomor Anda mendapatkan motor Honda Beat. Silakan isi data di http://undian-pemenang.id untuk verifikasi pemenang.,phishing_hadiah,template_formal
+aku mau beli kirim dulu no rek + kode otp buat konfirmasi shopee,marketplace_palsu,template_informal
+Kami tim penagihan Crypto. Pinjaman Anda menunggak 3456 hari. Foto KTP Anda akan kami sebarkan. Batas hari ini.,pinjol_ilegal,template_formal
+halo kak ini cs Shopee akun kakak mau diblokir tolong kasih kode otp yg masuk ya,fake_call_center,template_informal
+kerja sampingan dr rumah komisi 4jt deposit dulu 500rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"Quotex aauto cuan, ga mungkin rugi, kirim 1 juta ke 6374684234",investasi_bodong,template_informal
+link zoom kuliahnya: https://zoom.us/j/123456789 jam 15,aman,template_informal
+"Oke, besok kita ketemu di perpus jam 9 ya. Makasih banyak.",aman,template_formal
+pinjaman kamu nunggak segera lunasi 100rb ke 7788990011 kalo ngga data disebar,pinjol_ilegal,template_informal
+"bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak, tf ke 1234567890",pinjol_ilegal,template_informal
+"besok ketemuan di lab jam 13 ya, jangan lupa bawa laptop",aman,template_informal
+SELAMAT! Anda terpilih sebagai pemenang undian Telkomsel. Hadiah Rp 50 juta. Klaim sekarang di http://bit.ly/klaimundian sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+"Eh, tugas kelompok sudah aku kirim lewat email. Makasih banyak.",aman,template_formal
+"Peluang emas bersama Pinjaman Kilat! Profit 10% per hari, dijamin tanpa rugi. Transfer ke rekening admin untuk aktivasi akun. Promo berakhir malam ini.",investasi_bodong,template_formal
+Perhatian! Tagihan Robot Trading Anda jatuh tempo. Pinjaman Anda menunggak 9012 hari. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+Bank BCA: kartu ATM Anda terdeteksi digunakan di luar negeri. Hubungi call center palsu segara: 021-xxx. Berikan kode OTP untuk keamanan.,fake_call_center,template_formal
+kami kolektor telat 5 hari kami hubungi keluarga + kantor kamu kalo ga lunas,pinjol_ilegal,template_informal
+bapak/ibu kami dari Shopee mohon sebutkan otp utk membatalkan transaksi,fake_call_center,template_informal
+"taagihan BCA menunggak 5 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+pinjaman kamu nunggak segera lunasi 2jt ke 1234567890 kalo ngga data disebar,pinjol_ilegal,template_informal
+"Gabung member VIP Binomo! Dana dikelola trader profesional, untung pasti. Transfer ke rekening admin untuk aktivasi akun. Promo berakhir malam ini.",investasi_bodong,template_formal
+"Selamat! Pembeli sudah membayar lewat Facebook Marketplace. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/Facebook Marketplacecair. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Lowongan WFH: admin online gaji Rp 8 juta/bulan tanpa pengalaman. Daftar di wa.me/62778800 sekarang. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+"info mandiri: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+"naanti aku transfer uang kos 1 juta ya, kirim no rek kamu",aman,template_informal
+waa kamu terpilih dpt paket umroh hubungi admin 0812-9988-7766 skrg juga sblm hangus,phishing_hadiah,template_informal
+kaamu udah makan? aku bawain nasi ke perpus,aman,template_informal
+"Peluang emas bersama Binomo! Dana dikelola trader profesional, untung pasti. Ajak teman dapat bonus referral. Buruan sebelum penuh.",investasi_bodong,template_formal
+"Kami dari Customer Care Indosat. Biaya admin naik menjadi Rp 150.000 per bulan. Konfirmasi PIN dan kode OTP sekarang. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"info telkomsel: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+"kamu dapet hadiah motor dr BCA, buat ngeklaim transfer 250rb dulu ke norek 6374684234",phishing_hadiah,template_informal
+"bapak/ibu kami dari Shopee, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+"admin tokopedia: dana belum cair, tf 2jt biaya verifikasi dulu",marketplace_palsu,template_informal
+"Eh, jadwal kuliah kampus dimajukan jam 10. Sampai ketemu!",aman,template_formal
+"kripto aauto cuan, ga mungkin rugi, kirim 250rb ke 6374684234",investasi_bodong,template_informal
+kak barangnya udah aku bayar dananya tertahan klik http://klaim-bankxyz buat cairin masukin pin,marketplace_palsu,template_informal
+wa kamu terpilih dpt motor hubungi admin 0812-9988-7766 skrg juga sblm hangus,phishing_hadiah,template_informal
+"tagihan Mandiri menunggak 7 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"kartu kamu bermasalah, klik http://klaim-bank.xyz buat update data m-banking segera",fake_call_center,template_informal
+"kami kolektor, telat 7 hari, kami hubungi keluarga + kantor kamu kalo ga lunas",pinjol_ilegal,template_informal
+"Selamat! Pembeli sudah membayar lewat Tokopedia. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Tokopedia. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+"kerja sampingan dr rumah komisi 6jt, deposit dulu 2jt buat modal tugas",lowongan_kerja_palsu,template_informal
+"pembeli OLX sudah transfer, tinggal verifikasi https://cair-dana.top + otp biar masuk saldo",marketplace_palsu,template_informal
+Perhatian! Tagihan Robot Trading Anda jatuh tempo. Hutang belum dilunasi sampai hari ini. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"Eh, nanti malam jadi makan bareng? Kabari kalau telat ya.",aman,template_formal
+Selamat! Anda diterima kerja sebagai staff input data. Langkah terakhir: transfer biaya training sebesar Rp 300.000 ke rekening 1234567890 a/n PT Maju Bersama.,lowongan_kerja_palsu,template_formal
+selamat no kamu kepilih menang paket umroh. buka http://klaim-bank.xyz isi data sama kode otp ya,phishing_hadiah,template_informal
+"Cuan dari Robot Trading tanpa ribet! Dana dikelola trader profesional, untung pasti. Transfer ke rekening admin untuk aktivasi akun. Promo berakhir malam ini.",investasi_bodong,template_formal
+"join grup trading robot forex, untung dijamin tiap hari, depo awal 1 juta",investasi_bodong,template_informal
+"Halo, nanti malam jadi makan bareng? Jangan lupa bawa laptop.",aman,template_formal
+Ini kolektor pinjaman online. Pinjaman Anda menunggak 2201 hari. Segera transfer ke rekening ini atau data disebar ke kontak. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+tagihan wifi bulan ini 500rb ya nanti aku tf ke kamu,aman,template_informal
+kerja sampingan dr rumah komisi 3jt deposit dulu 1 juta buat modal tugas,lowongan_kerja_palsu,template_informal
+"Selamat! Pembeli sudah membayar lewat Shopee. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/Shopeecair. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Selamat! Pembeli telah membayar lewat Shopee. Untuk melepas dana, klik link verifikasi dan masukkan PIN ATM Anda. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+nanti aku transfer uang kos 1 juta ya kirim no rek kamu,aman,template_informal
+"Gabung member VIP Pinjaman Kilat! Modal Rp 75rb balik Rp 1 juta per minggu. Daftar lewat wa.me/62901200, kuota terbatas. Buruan sebelum penuh.",investasi_bodong,template_formal
+SELAMAT! Anda terpilih sebagai pemenang undian Indosat. Hadiah Rp 25.000.000. Klaim sekarang di http://klaim-hadiah.digital sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+"Peluang emas bersama Quotex! Modal Rp 100rb balik Rp 1 juta per minggu. Daftar lewat wa.me/62901200, kuota terbatas. Buruan sebelum penuh.",investasi_bodong,template_formal
+"Halo, ini petugas Mandiri. Rekening Anda akan diblokir karena data belum diperbarui. Klik http://Mandiri-care.top untuk verifikasi. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"halo kak ini cs Mandiri, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+"modaal 1 juta bisa jd 5jt seminggu, profit pasti, tf ke norek 7788990011 buat daftar",investasi_bodong,template_informal
+"Halo, besok kita ketemu di lab jam 9 ya. Jangan lupa bawa laptop.",aman,template_formal
+"join grup trading Quotex, untung dijamin tiap hari, depo awal 250rb",investasi_bodong,template_informal
+"tagihan wifi bulan ini 250rb ya, nanti aku tf ke kamu",aman,template_informal
+"tagihan dana menunggak 7 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+selamat no kamu kepilih menang mobil. buka bit.ly/v3rif isi data sama kode otp ya,phishing_hadiah,template_informal
+"join grup trading Quotex, untung dijamin tiap hari, depo awal 2jt",investasi_bodong,template_informal
+selamat no kamu kepilih menang emas 10 gram. buka bit.ly/v3rif isi data sama kode otp ya,phishing_hadiah,template_informal
+tagihan dana menunggak 3 hari bayar hari ini atau kontak darurat kami teror,pinjol_ilegal,template_informal
+"aadmin shopee: dana belum cair, tf 2jt biaya verifikasi dulu",marketplace_palsu,template_informal
+"biaya admin Telkomsel naik jd 150rb, klik https://cair-dana.top kalo mau tetep pake tarif lama",fake_call_center,template_informal
+Info resmi: Rekening Anda memenangkan undian Shopee senilai Rp 100. Hubungi CS 0812-7788-7890 dan siapkan PIN ATM. Segera sebelum hadiah dibatalkan.,phishing_hadiah,template_formal
+"Selamat! Pembeli sudah membayar lewat OLX. Untuk melepas dana, klik link verifikasi. Kirim kode OTP ke admin OLX. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+kamu udah makan? aku bawain nasi ke perpus,aman,template_informal
+"INFO LOKER! part time dari rumah, 1 jam sehari, penghasilan Rp 3 juta. Chat admin di t.me/loker9012. Biaya administrasi Rp 200.000 di awal.",lowongan_kerja_palsu,template_formal
+PERINGATAN BCA! Sistem kami mendeteksi percobaan akses ilegal. Lindungi saldo Anda dengan mengirim kode OTP ke nomor ini sekarang juga.,fake_call_center,template_formal
+"bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak, tf ke 6374684234",pinjol_ilegal,template_informal
+Bank DANA: kartu ATM Anda terdeteksi digunakan di luar negeri. Hubungi call center palsu segara: 021-xxx. Berikan kode OTP untuk keamanan.,fake_call_center,template_formal
+Ini kolektor pinjaman online. Anda terlambat bayar Rp 2500 ribu. Kami akan hubungi seluruh keluarga dan atasan Anda. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"kami kolektor, telat 3 hari, kami hubungi keluarga + kantor kamu kalo ga lunas",pinjol_ilegal,template_informal
+"Ada pembeli serius di OLX. Kurir menunggu, verifikasi dulu. Masukkan PIN ATM di http://OLX-cair.xyz. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+"Kami dari Customer Care Telkomsel. Rekening Anda akan diblokir karena data belum diperbarui. Hubungi 0813-3456-1122 untuk membatalkan. Mohon segera, ini mendesak.",fake_call_center,template_formal
+Perhatian! Tagihan Robot Trading Anda jatuh tempo. Pinjaman Anda menunggak 2201 hari. Kami akan hubungi seluruh keluarga dan atasan Anda. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+PEMENANG UNDIAN! Nomor Anda terpilih mendapat hadiah Rp 75 dari BCA. Klaim di http://BCA-klaim.online dengan verifikasi PIN/OTP. Batas 1 jam.,phishing_hadiah,template_formal
+"Selamat! Pembeli sudah membayar lewat Shopee. Untuk melepas dana, klik link verifikasi. Kirim kode OTP ke admin Shopee. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+kamu udah makan aku bawain nasi ke lab,aman,template_informal
+"butuh admin online no exp dibayar harian, chat https://cair-dana.top, ada biaya daftar 250rb",lowongan_kerja_palsu,template_informal
+nanti aku transfer uang kos 2jt ya kirim no rek kamu,aman,template_informal
+"join grup trading kripto, untung dijamin tiap hari, depo awal 100rb",investasi_bodong,template_informal
+"aku mau beli, kirim dulu no rek + kode otp buat konfirmasi OLX",marketplace_palsu,template_informal
+PENAGIHAN! Anda memiliki tunggakan pinjol Rp 4.000.000. Bayar hari ini atau kami laporkan ke keluarga & kantor Anda. Transfer ke 0987654321.,pinjol_ilegal,template_formal
+"join grup trading Quotex, untung dijamin tiap hari, depo awal 100rb",investasi_bodong,template_informal
+"PEMENANG UNDIAN! Anda pemenang program loyalitas BRI, hadiah Rp 50. Isi data di bit.ly/BRIhadiah dan kirim kode OTP. Batas 1 jam.",phishing_hadiah,template_formal
+"INFO LOKER! kerja like, subscribe dan review produk, bayaran harian Rp 700 ribu. Daftar di wa.me/62901200 sekarang. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+tagihan DANA menunggak 7 hari bayar hari ini atau kontak darurat kami teror,pinjol_ilegal,template_informal
+"kaak barangnya udah aku bayar, dananya tertahan, klik bit.ly/v3rif buat cairin, masukin pin",marketplace_palsu,template_informal
+"info loker part time gaji 8jt tanpa syarat, tf 2jt utk pelatihan",lowongan_kerja_palsu,template_informal
+"Siang, tugas kelompok sudah aku kirim lewat email. Makasih banyak.",aman,template_formal
+"tagihan Telkomsel menunggak 3 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"tagihan telkomsel menunggak 7 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"Cuan dari Binomo tanpa ribet! Profit 10% per hari, dijamin tanpa rugi. Transfer ke rekening admin untuk aktivasi akun. Promo berakhir malam ini.",investasi_bodong,template_formal
+"loker wfh gaaji 6jt/bln gampang cuma like youtube, daftar bit.ly/klaimku, bayar seragam 500rb dulu",lowongan_kerja_palsu,template_informal
+"Yth nasabah OVO, rekening Anda akan diblokir dalam 1 jam. Segera konfirmasi PIN & OTP di nomor kami 0813-9999-8888 agar tidak terblokir permanen.",fake_call_center,template_formal
+info loker paart time gaji 4jt tanpa syarat tf 250rb utk pelatihan,lowongan_kerja_palsu,template_informal
+"Ada pembeli serius di Shopee. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/Shopeecair. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+kamu dapet hadiah motor dr mandiri buat ngeklaim transfer 2jt dulu ke norek 1234567890,phishing_hadiah,template_informal
+"kamu dapet hadiah mobil dr bri, buat ngeklaim transfer 100rb dulu ke norek 9081726354",phishing_hadiah,template_informal
+"Quotex auto cuan, ga mungkin rugi, kirim 500rb ke 6374684234",investasi_bodong,template_informal
+"kerjaa sampingan dr rumah komisi 3jt, deposit dulu 1 juta buat modal tugas",lowongan_kerja_palsu,template_informal
+"biaaya admin shopee naik jd 150rb, klik bit.ly/v3rif kalo mau tetep pake tarif lama",fake_call_center,template_informal
+Tri mengucapkan selamat! Anda pemenang ke-7. Klaim Rp 25.000.000 di http://bri-klaim2026.com dengan verifikasi OTP yang dikirim ke nomor Anda.,phishing_hadiah,template_formal
+"kartu kamu bermasalah, klik https://cair-dana.top buat update data m-banking segera",fake_call_center,template_informal
+"info loker part time gaji 8jt tanpa syarat, tf 500rb utk pelatihan",lowongan_kerja_palsu,template_informal
+link zoom kuliaahnya: https://zoomus/j/123456789 jam 10,aman,template_informal
+bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak tf ke 1234567890,pinjol_ilegal,template_informal
+Ini kolektor pinjaman online. Hutang belum dilunasi sampai hari ini. Segera transfer ke rekening ini atau data disebar ke kontak. Batas hari ini.,pinjol_ilegal,template_formal
+"jgn kasih tau kode otp kamu ke siapa pun ya, lagi rame penipuan",aman,template_informal
+"info loker paart time gaji 4jt tanpa syarat, tf 500rb utk pelatihan",lowongan_kerja_palsu,template_informal
+"Gabung grup VIP Binomo-like. Bukti transfer member: Rp 20 juta masuk hari ini. Minimal deposit Rp 500rb. Tidak perlu ngerti trading, sistem yang kerja!",investasi_bodong,template_formal
+"biaaya admin dana naik jd 150rb, klik https://cair-dana.top kalo mau tetep pake tarif lama",fake_call_center,template_informal
+Cuan dari Binomo tanpa ribet! Modal Rp 75rb balik Rp 1 juta per minggu. Ajak teman dapat bonus referral. Slot tinggal 5 orang!,investasi_bodong,template_formal
+"halo kak ini cs Shopee, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+"aku mau beli, kirim dulu no rek + kode otp buat konfirmasi Tokopedia",marketplace_palsu,template_informal
+"tagihan BCA menunggak 3 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"INFO LOKER! Dibutuhkan admin online, gaji Rp 8 jt/bln, WFH, cukup like & subscribe. Daftar: wa.me/62812xxx. Deposit pelatihan Rp 150.000.",lowongan_kerja_palsu,template_formal
+admin tokopedia: dana belum cair tf 250rb biaya verifikasi dulu,marketplace_palsu,template_informal
+"modal 250rb bisa jd 5jt seminggu, profit pasti, tf ke norek 9081726354 buat daftar",investasi_bodong,template_informal
+"kamu dapet hadiah uang 50 juta dr dana, buat ngeklaim transfer 500rb dulu ke norek 1234567890",phishing_hadiah,template_informal
+selamat no kamu kepilih menang motor. buka bit.ly/klaimku isi data sama kode otp ya,phishing_hadiah,template_informal
+kartu kamu bermasalah klik http://klaim-bankxyz buat update data m-banking segera,fake_call_center,template_informal
+Selamat! Anda beruntung. Nomor Anda terpilih mendapat hadiah Rp 50 dari BRI. Klaim di http://BRI-klaim.top dengan verifikasi PIN/OTP. Segera sebelum hadiah dibatalkan.,phishing_hadiah,template_formal
+"Pesanan di Shopee sudah dibayar pembeli. Untuk melepas dana, klik link verifikasi. Masukkan PIN ATM di http://Shopee-cair.online. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+"Oke, nanti malam jadi makan bareng? Jangan lupa bawa laptop.",aman,template_formal
+"Siang, jadwal kuliah lab dimajukan jam 8. Sampai ketemu!",aman,template_formal
+"maakasih ya udah tf patungan kemarin, aku udah terima",aman,template_informal
+"Info resmi: Anda pemenang program loyalitas Indosat, hadiah Rp 75. Klaim di http://Indosat-klaim.online dengan verifikasi PIN/OTP. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+"Eh, nanti malam jadi makan bareng? Sampai ketemu!",aman,template_formal
+"anda menang undian dana hadiah iphone 15, tf biaya admin 500rb dlu biar cair",phishing_hadiah,template_informal
+"biaya admin BRI naik jd 150rb, klik bit.ly/v3rif kalo mau tetep pake tarif lama",fake_call_center,template_informal
+"gaji bulan ini udah masuk, makan di luar yuk",aman,template_informal
+pinjaman kamu nunggak segera lunasi 1 juta ke 1234567890 kalo ngga data disebar,pinjol_ilegal,template_informal
+Kami tim penagihan Crypto. Hutang belum dilunasi sampai hari ini. Segera transfer ke rekening ini atau data disebar ke kontak. Batas hari ini.,pinjol_ilegal,template_formal
+info loker part time gaji 8jt tanpa syarat tf 500rb utk pelatihan,lowongan_kerja_palsu,template_informal
+"kamu dapet hadiah uang 50 juta dr mandiri, buat ngeklaim transfer 2jt dulu ke norek 6374684234",phishing_hadiah,template_informal
+Perhatian! Tagihan Binomo Anda jatuh tempo. Anda terlambat bayar Rp 2500 ribu. Segera transfer ke rekening ini atau data disebar ke kontak. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"admin fb marketplace: dana belum cair, tf 500rb biaya verifikasi dulu",marketplace_palsu,template_informal
+"Oke, jadwal kuliah kantin dimajukan jam 9. Makasih banyak.",aman,template_formal
+"PEMENANG UNDIAN! Anda pemenang program loyalitas Indosat, hadiah Rp 75. Klaim di http://Indosat-klaim.xyz dengan verifikasi PIN/OTP. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+"Pesanan di Tokopedia sudah dibayar pembeli. Untuk melepas dana, klik link verifikasi. Kirim kode OTP ke admin Tokopedia. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+"INFO LOKER! kerja like, subscribe dan review produk, bayaran harian Rp 700 ribu. Chat admin di t.me/loker9012. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"baapak/ibu kami dari DANA, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+"Halo kak, untuk stok skincare yang kemarin masih ada? Kalau ada saya ambil satu, bayar via transfer BCA biasa ya.",aman,template_formal
+"kaak barangnya udah aku bayar, dananya tertahan, klik bit.ly/klaimku buat cairin, masukin pin",marketplace_palsu,template_informal
+"pinjaaman kamu nunggak, segera lunasi 500rb ke 7788990011, kalo ngga data disebar",pinjol_ilegal,template_informal
+"INFO LOKER! part time dari rumah, 1 jam sehari, penghasilan Rp 7 juta. Hubungi HRD 0821-9012-5566. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"kamu dapet hadiah uang 50 juta dr bri, buat ngeklaim transfer 1 juta dulu ke norek 6374684234",phishing_hadiah,template_informal
+"Investasi arbitrage crypto! Deposit Rp 1 juta jadi Rp 5 juta dalam 3 hari. Dijamin untung 500%, dijamin return harian 10%. Daftar sekarang, slot terbatas!",investasi_bodong,template_formal
+"Info resmi: Anda pemenang program loyalitas BRI, hadiah Rp 25. Isi data di bit.ly/BRIhadiah dan kirim kode OTP. Hangus hari ini!",phishing_hadiah,template_formal
+kak barangnya udah aku bayar dananya tertahan klik bitly/v3rif buat cairin masukin pin,marketplace_palsu,template_informal
+"Lowongan WFH: part time dari rumah, 1 jam sehari, penghasilan Rp 3 juta. Chat admin di t.me/loker3456. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+Informasi resmi Bank Indonesia: nomor Anda mendapatkan Rp 50 juta. Silakan isi data di http://klaim-hadiah.digital untuk verifikasi pemenang.,phishing_hadiah,template_formal
+"baapak/ibu kami dari bri, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+Selamat! Anda beruntung. Nomor Anda terpilih mendapat hadiah Rp 25 dari Indosat. Isi data di bit.ly/Indosathadiah dan kirim kode OTP. Segera sebelum hadiah dibatalkan.,phishing_hadiah,template_formal
+"tagihan shopee menunggak 3 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"aajak teman dpt bonus referral, setor 1 juta langsung return mingguan",investasi_bodong,template_informal
+SELAMAT! Anda terpilih sebagai pemenang undian Bank Indonesia. Hadiah iPhone 16 Pro. Klaim sekarang di http://klaim-hadiah.digital sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+"Eh, besok kita ketemu di kampus jam 9 ya. Sampai ketemu!",aman,template_formal
+"kaartu kamu bermasalah, klik http://klaim-bank.xyz buat update data m-banking segera",fake_call_center,template_informal
+Ini kolektor pinjaman online. Pinjaman Anda menunggak 7788 hari. Segera transfer ke rekening ini atau data disebar ke kontak. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"aku mau beli, kirim dulu no rek + kode otp buat konfirmasi shopee",marketplace_palsu,template_informal
+"kaamu dapet hadiah emas 10 gram dr shopee, buat ngeklaim transfer 2jt dulu ke norek 9081726354",phishing_hadiah,template_informal
+bapak/ibu kami dari dana mohon sebutkan otp utk membatalkan transaksi,fake_call_center,template_informal
+km pemenang giveaway motor! klik https://cair-dana.top trus kirim pin ya,phishing_hadiah,template_informal
+Selamat! Anda diterima kerja sebagai resepsionis online. Langkah terakhir: transfer biaya training sebesar Rp 300.000 ke rekening 1234567890 a/n PT Maju Bersama.,lowongan_kerja_palsu,template_formal
+"wa kamu terpilih dpt uang 50 juta, hubungi admin 0812-9988-7766 skrg juga sblm hangus",phishing_hadiah,template_informal
+"Info resmi: Anda pemenang program loyalitas Indosat, hadiah Rp 100. Isi data di bit.ly/Indosathadiah dan kirim kode OTP. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+kamu udah makan? aku bawain nasi ke kampus,aman,template_informal
+anda menang undian mandiri hadiah emas 10 gram tf biaya admin 500rb dlu biar cair,phishing_hadiah,template_informal
+Ini kolektor pinjaman online. Pinjaman Anda menunggak 2201 hari. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"admin FB Marketplace: dana belum cair, tf 250rb biaya verifikasi dulu",marketplace_palsu,template_informal
+"Halo, nanti malam jadi makan bareng? Kabari kalau telat ya.",aman,template_formal
+selaamat no kamu kepilih menang uang 50 juta. buka http://klaim-bank.xyz isi data sama kode otp ya,phishing_hadiah,template_informal
+loker wfh gaji 3jt/bln gampang cuma like youtube daftar http://klaim-bankxyz bayar seragam 500rb dulu,lowongan_kerja_palsu,template_informal
+Kami tim penagihan Quotex. Hutang belum dilunasi sampai hari ini. Kami akan hubungi seluruh keluarga dan atasan Anda. Batas hari ini.,pinjol_ilegal,template_formal
+"info BCA: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+km pemenang giveaway mobil klik bitly/klaimku trus kirim pin ya,phishing_hadiah,template_informal
+join grup trading Binomo untung dijamin tiap hari depo awal 100rb,investasi_bodong,template_informal
+"Peluang emas bersama Quotex! Dana dikelola trader profesional, untung pasti. Ajak teman dapat bonus referral. Buruan sebelum penuh.",investasi_bodong,template_formal
+"Lowongan WFH: kerja like, subscribe dan review produk, bayaran harian Rp 700 ribu. Hubungi HRD 0821-9012-5566. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"pinjaman kamu nunggak, segera lunasi 1 juta ke 6374684234, kalo ngga data disebar",pinjol_ilegal,template_informal
+"pinjaman kamu nunggak, segera lunasi 2jt ke 1234567890, kalo ngga data disebar",pinjol_ilegal,template_informal
+"pembeli FB Maarketplace sudah transfer, tinggal verifikasi http://klaim-bank.xyz + otp biar masuk saldo",marketplace_palsu,template_informal
+Perhatian! Tagihan Quotex Anda jatuh tempo. Hutang belum dilunasi sampai hari ini. Foto KTP Anda akan kami sebarkan. Batas hari ini.,pinjol_ilegal,template_formal
+Kami dari Customer Care Mandiri. Terdeteksi transaksi mencurigakan di kartu Anda. Hubungi 0813-9012-1122 untuk membatalkan. Waktu Anda 30 menit.,fake_call_center,template_formal
+Perhatian! Tagihan Robot Trading Anda jatuh tempo. Pinjaman Anda menunggak 9012 hari. Foto KTP Anda akan kami sebarkan. Batas hari ini.,pinjol_ilegal,template_formal
+"loker wfh gaji 6jt/bln gampang cuma like youtube, daftar bit.ly/klaimku, bayar seragam 1 juta dulu",lowongan_kerja_palsu,template_informal
+selamat no kamu kepilih menang uang 50 juta. buka bit.ly/v3rif isi data sama kode otp ya,phishing_hadiah,template_informal
+"butuh admin online no exp dibayar harian, chat bit.ly/klaimku, ada biaya daftar 250rb",lowongan_kerja_palsu,template_informal
+nanti aku transfer uang kos 500rb ya kirim no rek kamu,aman,template_informal
+ajak teman dpt bonus referral setor 250rb langsung return mingguan,investasi_bodong,template_informal
+"Kami dari Customer Care Shopee. Rekening Anda akan diblokir karena data belum diperbarui. Klik http://Shopee-care.online untuk verifikasi. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"biaya admin BCA naik jd 150rb, klik https://cair-dana.top kalo mau tetep pake tarif lama",fake_call_center,template_informal
+"Halo, ini petugas Shopee. Terdeteksi transaksi mencurigakan di kartu Anda. Hubungi 0813-9012-1122 untuk membatalkan. Waktu Anda 30 menit.",fake_call_center,template_formal
+"aanda menang undian bri hadiah emas 10 gram, tf biaya admin 1 juta dlu biar cair",phishing_hadiah,template_informal
+"quotex auto cuan, ga mungkin rugi, kirim 2jt ke 1234567890",investasi_bodong,template_informal
+"Investasi aplikasi investasi pohon durian! Deposit Rp 1 juta jadi Rp 5 juta dalam 3 hari. Dijamin untung 500%, dijamin return harian 10%. Daftar sekarang, slot terbatas!",investasi_bodong,template_formal
+"Yth nasabah BTPN, rekening Anda akan diblokir dalam 1 jam. Segera konfirmasi PIN & OTP di nomor kami 0813-9999-8888 agar tidak terblokir permanen.",fake_call_center,template_formal
+"Selamat! Pembeli sudah membayar lewat OLX. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/OLXcair. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"anda menang undian mandiri hadiah motor, tf biaya admin 500rb dlu biar cair",phishing_hadiah,template_informal
+"loker wfh gaji 4jt/bln gampang cuma like youtube, daftar http://klaim-bank.xyz, bayar seragam 250rb dulu",lowongan_kerja_palsu,template_informal
+Bank Jenius: kartu ATM Anda terdeteksi digunakan di luar negeri. Hubungi call center palsu segara: 021-xxx. Berikan kode OTP untuk keamanan.,fake_call_center,template_formal
+"join grup trading binomo, untung dijamin tiap hari, depo awal 250rb",investasi_bodong,template_informal
+kamu udah makan aku bawain nasi ke kampus,aman,template_informal
+Perhatian! Tagihan Pinjaman Kilat Anda jatuh tempo. Pinjaman Anda menunggak 7788 hari. Segera transfer ke rekening ini atau data disebar ke kontak. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+PERINGATAN BNI! Sistem kami mendeteksi percobaan akses ilegal. Lindungi saldo Anda dengan mengirim kode OTP ke nomor ini sekarang juga.,fake_call_center,template_formal
+"INFO LOKER! kerja like, subscribe dan review produk, bayaran harian Rp 500 ribu. Hubungi HRD 0821-2201-5566. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"kak barangnya udah aku bayar, dananya tertahan, klik bit.ly/v3rif buat cairin, masukin pin",marketplace_palsu,template_informal
+aku mau beli kirim dulu no rek + kode otp buat konfirmasi Tokopedia,marketplace_palsu,template_informal
+pembeli olx sudah transfer tinggal verifikasi https://cair-danatop + otp biar masuk saldo,marketplace_palsu,template_informal
+SELAMAT! Anda terpilih sebagai pemenang undian Indosat. Hadiah Rp 75.000.000. Klaim sekarang di http://klaim-hadiah.digital sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+info loker part time gaji 3jt tanpa syarat tf 2jt utk pelatihan,lowongan_kerja_palsu,template_informal
+promo shopee laagi diskon mau beli bareng,aman,template_informal
+"Selamat! Pembeli telah membayar lewat Lazada. Untuk melepas dana, klik link verifikasi dan masukkan PIN ATM Anda. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+"nanti aku transfer uang kos 2jt ya, kirim no rek kamu",aman,template_informal
+butuh admin online no exp dibayar harian chat bitly/v3rif ada biaya daftar 100rb,lowongan_kerja_palsu,template_informal
+"Kami dari Customer Care DANA. Terdeteksi transaksi mencurigakan di kartu Anda. Konfirmasi PIN dan kode OTP sekarang. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+bayar kos udah belum aku mau tf sekarang,aman,template_informal
+"Dicari admin online tanpa pengalaman, gaji harian Rp 500rb. Syarat: like 20 produk dulu, top up saldo Rp 200.000 untuk aktivasi akun. Chat sekarang!",lowongan_kerja_palsu,template_formal
+"Cuan dari Robot Trading tanpa ribet! Dana dikelola trader profesional, untung pasti. Transfer ke rekening admin untuk aktivasi akun. Slot tinggal 5 orang!",investasi_bodong,template_formal
+"join grup traading robot forex, untung dijamin tiap hari, depo awal 1 juta",investasi_bodong,template_informal
+Perhatian! Tagihan Robot Trading Anda jatuh tempo. Anda terlambat bayar Rp 10000 ribu. Kami akan hubungi seluruh keluarga dan atasan Anda. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+Info resmi: Nomor Anda terpilih mendapat hadiah Rp 100 dari Indosat. Klaim di http://Indosat-klaim.digital dengan verifikasi PIN/OTP. Segera sebelum hadiah dibatalkan.,phishing_hadiah,template_formal
+"kerja sampingan dr rumah komisi 3jt, deposit dulu 500rb buat modal tugas",lowongan_kerja_palsu,template_informal
+Ini kolektor pinjaman online. Anda terlambat bayar Rp 10000 ribu. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"kripto auto cuan, ga mungkin rugi, kirim 250rb ke 6374684234",investasi_bodong,template_informal
+"Cuan dari Pinjaman Kilat tanpa ribet! Profit 10% per hari, dijamin tanpa rugi. Daftar lewat wa.me/62901200, kuota terbatas. Promo berakhir malam ini.",investasi_bodong,template_formal
+"besok ketemuaan di lab jam 10 ya, jangan lupa bawa laptop",aman,template_informal
+link zoom kuliahnya: https://zoom.us/j/123456789 jam 10,aman,template_informal
+"Promo saham gorengan: bonus deposit 100% hari ini saja. Saya sudah wd Rp 50 juta, cek bukti screenshot. Yang mau langsung daftar klik link.",investasi_bodong,template_formal
+Kami tim penagihan Binomo. Hutang belum dilunasi sampai hari ini. Kami akan hubungi seluruh keluarga dan atasan Anda. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"Siang, besok kita ketemu di perpus jam 13 ya. Sampai ketemu!",aman,template_formal
+"Ada pembeli serius di Tokopedia. Dana tertahan, perlu konfirmasi rekening. Isi data kartu di bit.ly/Tokopediacair. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+promo shopee lagi diskon mau beli bareng,aman,template_informal
+"Halo, ini petugas BRI. Rekening Anda akan diblokir karena data belum diperbarui. Hubungi 0813-2201-1122 untuk membatalkan. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"Pesanan di Facebook Marketplace sudah dibayar pembeli. Kurir menunggu, verifikasi dulu. Masukkan PIN ATM di http://Facebook Marketplace-cair.digital. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+link zoom kuliahnya: https://zoom.us/j/123456789 jam 8,aman,template_informal
+"Lowongan WFH: part time dari rumah, 1 jam sehari, penghasilan Rp 5 juta. Daftar di wa.me/62778800 sekarang. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+INFO LOKER! admin online gaji Rp 8 juta/bulan tanpa pengalaman. Chat admin di t.me/loker7788. Wajib deposit Rp 150.000 untuk pelatihan.,lowongan_kerja_palsu,template_formal
+"Bu, saya mau tanya jadwal ujian minggu depan itu hari apa ya? Terima kasih banyak.",aman,template_formal
+Kami tim penagihan Quotex. Pinjaman Anda menunggak 9012 hari. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"info DANA: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+kerjaa sampingan dr rumah komisi 8jt deposit dulu 250rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"besok ketemuan di perpus jam 10 ya, jangan lupa bawa laptop",aman,template_informal
+Selamat! Anda diterima kerja sebagai kurir online. Langkah terakhir: transfer biaya training sebesar Rp 300.000 ke rekening 1234567890 a/n PT Maju Bersama.,lowongan_kerja_palsu,template_formal
+"Oke, jadwal kuliah perpus dimajukan jam 13. Kabari kalau telat ya.",aman,template_formal
+"Gabung member VIP Binomo! Profit 10% per hari, dijamin tanpa rugi. Ajak teman dapat bonus referral. Slot tinggal 5 orang!",investasi_bodong,template_formal
+"aaku mau beli, kirim dulu no rek + kode otp buat konfirmasi olx",marketplace_palsu,template_informal
+"Cuan dari Pinjaman Kilat tanpa ribet! Profit 10% per hari, dijamin tanpa rugi. Ajak teman dapat bonus referral. Slot tinggal 5 orang!",investasi_bodong,template_formal
+join grup trading binomo untung dijamin tiap hari depo awal 500rb,investasi_bodong,template_informal
+"Dicari penulis lepas tanpa pengalaman, gaji harian Rp 500rb. Syarat: like 20 produk dulu, top up saldo Rp 200.000 untuk aktivasi akun. Chat sekarang!",lowongan_kerja_palsu,template_formal
+Bank OVO: kartu ATM Anda terdeteksi digunakan di luar negeri. Hubungi call center palsu segara: 021-xxx. Berikan kode OTP untuk keamanan.,fake_call_center,template_formal
+"Gabung member VIP Crypto! Profit 10% per hari, dijamin tanpa rugi. Ajak teman dapat bonus referral. Slot tinggal 5 orang!",investasi_bodong,template_formal
+"Kami dari tim kolektor pinjaman online. Anda terlambat bayar, segera transfer ke rekening ini atau data Anda kami sebar ke kontak keluarga hari ini juga.",pinjol_ilegal,template_formal
+"aku mau beli, kirim dulu no rek + kode otp buat konfirmasi tokopedia",marketplace_palsu,template_informal
+Informasi resmi Bank Indonesia: nomor Anda mendapatkan umroh gratis + Rp 10 juta. Silakan isi data di http://bri-klaim2026.com untuk verifikasi pemenang.,phishing_hadiah,template_formal
+"modal 500rb bisa jd 5jt seminggu, profit pasti, tf ke norek 9081726354 buat daftar",investasi_bodong,template_informal
+"Ada pembeli serius di Shopee. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Shopee. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Dicari resepsionis online tanpa pengalaman, gaji harian Rp 500rb. Syarat: like 20 produk dulu, top up saldo Rp 200.000 untuk aktivasi akun. Chat sekarang!",lowongan_kerja_palsu,template_formal
+"kerja sampingan dr rumah komisi 8jt, deposit dulu 250rb buat modal tugas",lowongan_kerja_palsu,template_informal
+"kaamu dapet hadiah motor dr Telkomsel, buat ngeklaim transfer 100rb dulu ke norek 9081726354",phishing_hadiah,template_informal
+"info loker part time gaji 3jt tanpa syarat, tf 100rb utk pelatihan",lowongan_kerja_palsu,template_informal
+Cuan dari Quotex VIP tanpa ribet! Modal Rp 100rb balik Rp 1 juta/minggu. Diatur mentor profesional. Transfer ke rekening admin untuk aktivasi akun.,investasi_bodong,template_formal
+"Pemenang undian Tri! iPhone 16 Pro menunggu Anda. Klik http://undian-pemenang.id, masukkan PIN ATM untuk konfirmasi. Jangan sampai kedaluwarsa!",phishing_hadiah,template_formal
+"Halo, ini petugas Indosat. Terdeteksi transaksi mencurigakan di kartu Anda. Hubungi 0813-3456-1122 untuk membatalkan. Mohon segera, ini mendesak.",fake_call_center,template_formal
+"Halo, besok kita ketemu di lab jam 10 ya. Makasih banyak.",aman,template_formal
+"Eh, nanti malam jadi makan bareng? Jangan lupa bawa laptop.",aman,template_formal
+"bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak, tf ke 7788990011",pinjol_ilegal,template_informal
+"besok ketemuan di kantin jam 15 ya, jangan lupa bawa laptop",aman,template_informal
+Peluang emas bersama Robot Trading! Modal Rp 50rb balik Rp 1 juta per minggu. Transfer ke rekening admin untuk aktivasi akun. Slot tinggal 5 orang!,investasi_bodong,template_formal
+tagihan wifi bulan ini 250rb ya nanti aku tf ke kamu,aman,template_informal
+"Ibu, saya sudah transfer listriknya Rp 200.000 ke rekening biasa. Cek ya Bu, kalau belum masuk kabari.",aman,template_formal
+Selamat! Anda beruntung. Rekening Anda memenangkan undian Telkomsel senilai Rp 25. Klaim di http://Telkomsel-klaim.online dengan verifikasi PIN/OTP. Hangus hari ini!,phishing_hadiah,template_formal
+"Pak, konfirmasi rapat besok pukul 09.00 di ruang 302 ya. Mohon kehadirannya tepat waktu.",aman,template_formal
+Selamat! Anda beruntung. Nomor Anda terpilih mendapat hadiah Rp 75 dari Telkomsel. Hubungi CS 0812-3456-7890 dan siapkan PIN ATM. Batas 1 jam.,phishing_hadiah,template_formal
+"info lowongan magang di kampus udah dibuka, cek di web resmi jurusan",aman,template_informal
+Ini kolektor pinjaman online. Pinjaman Anda menunggak 7788 hari. Foto KTP Anda akan kami sebarkan. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+Perhatian! Tagihan Quotex Anda jatuh tempo. Pinjaman Anda menunggak 9012 hari. Segera transfer ke rekening ini atau data disebar ke kontak. Batas hari ini.,pinjol_ilegal,template_formal
+"halo kak ini cs DANA, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+"biaya admin BRI naik jd 150rb, klik bit.ly/klaimku kalo mau tetep pake tarif lama",fake_call_center,template_informal
+gaaji bulan ini udah masuk makan di luar yuk,aman,template_informal
+pinjaman kamu nunggak segera lunasi 250rb ke 7788990011 kalo ngga data disebar,pinjol_ilegal,template_informal
+Informasi resmi Shopee: nomor Anda mendapatkan Rp 100.000.000. Silakan isi data di http://undian-pemenang.id untuk verifikasi pemenang.,phishing_hadiah,template_formal
+"Info resmi: Anda pemenang program loyalitas DANA, hadiah Rp 50. Hubungi CS 0812-9012-7890 dan siapkan PIN ATM. Hangus hari ini!",phishing_hadiah,template_formal
+Perhatian! Tagihan Quotex Anda jatuh tempo. Pinjaman Anda menunggak 2201 hari. Segera transfer ke rekening ini atau data disebar ke kontak. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+Ini kolektor pinjaman online. Pinjaman Anda menunggak 3456 hari. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+Quotex auto cuan ga mungkin rugi kirim 250rb ke 7788990011,investasi_bodong,template_informal
+"info BCA: aada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+"INFO LOKER! Dibutuhkan admin online, gaji Rp 4 jt/bln, WFH, cukup like & subscribe. Daftar: wa.me/62812xxx. Deposit pelatihan Rp 150.000.",lowongan_kerja_palsu,template_formal
+gaji bulan ini udah masuk makan di luar yuk,aman,template_informal
+"Ada pembeli serius di Tokopedia. Untuk melepas dana, klik link verifikasi. Masukkan PIN ATM di http://Tokopedia-cair.online. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+butuh admin online no exp dibayar harian chat https://cair-danatop ada biaya daftar 100rb,lowongan_kerja_palsu,template_informal
+"Loker resepsionis online! Gaji Rp 5 juta/bulan + bonus. Klik link pendaftaran, kirim foto KTP dan bayar biaya administrasi Rp 250.000.",lowongan_kerja_palsu,template_formal
+pinjaaman kamu nunggak segera lunasi 100rb ke 1234567890 kalo ngga data disebar,pinjol_ilegal,template_informal
+"Pemenang undian Shopee! Rp 25.000.000 menunggu Anda. Klik http://bit.ly/klaimundian, masukkan PIN ATM untuk konfirmasi. Jangan sampai kedaluwarsa!",phishing_hadiah,template_formal
+"pembeli fb marketplace sudah transfer, tinggal verifikasi bit.ly/v3rif + otp biar masuk saldo",marketplace_palsu,template_informal
+modal 1 juta bisa jd 5jt seminggu profit pasti tf ke norek 7788990011 buat daftar,investasi_bodong,template_informal
+"bapak/ibu kami dari dana, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+"modal 250rb bisa jd 5jt seminggu, profit pasti, tf ke norek 6374684234 buat daftar",investasi_bodong,template_informal
+"Eh, besok kita ketemu di kantin jam 10 ya. Jangan lupa bawa laptop.",aman,template_formal
+join grup trading kripto untung dijamin tiap hari depo awal 1 juta,investasi_bodong,template_informal
+"pembeli Tokopedia sudah transfer, tinggal verifikasi bit.ly/klaimku + otp biar masuk saldo",marketplace_palsu,template_informal
+"Selamat! Pembeli sudah membayar lewat Shopee. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/Shopeecair. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+"Siang, besok kita ketemu di perpus jam 13 ya. Makasih banyak.",aman,template_formal
+butuh admin online no exp dibayar harian chat bitly/klaimku ada biaya daftar 250rb,lowongan_kerja_palsu,template_informal
+Gabung member VIP Robot Trading! Modal Rp 25rb balik Rp 1 juta per minggu. Ajak teman dapat bonus referral. Promo berakhir malam ini.,investasi_bodong,template_formal
+"PEMENANG UNDIAN! Anda pemenang program loyalitas DANA, hadiah Rp 100. Klaim di http://DANA-klaim.online dengan verifikasi PIN/OTP. Segera sebelum hadiah dibatalkan.",phishing_hadiah,template_formal
+"pembeli FB Marketplace sudah transfer, tinggal verifikasi bit.ly/v3rif + otp biar masuk saldo",marketplace_palsu,template_informal
+loker wfh gaji 8jt/bln gampang cuma like youtube daftar bitly/klaimku bayar seragam 1 juta dulu,lowongan_kerja_palsu,template_informal
+naanti aku transfer uang kos 250rb ya kirim no rek kamu,aman,template_informal
+loker wfh gaaji 6jt/bln gampang cuma like youtube daftar bitly/v3rif bayar seragam 100rb dulu,lowongan_kerja_palsu,template_informal
+selamat no kamu kepilih menang paket umroh buka http://klaim-bankxyz isi data sama kode otp ya,phishing_hadiah,template_informal
+"tagihan wifi bulan ini 2jt ya, nanti aku tf ke kamu",aman,template_informal
+"loker wfh gaji 4jt/bln gampang cuma like youtube, daftar bit.ly/klaimku, bayar seragam 250rb dulu",lowongan_kerja_palsu,template_informal
+"Gabung member VIP Pinjaman Kilat! Profit 10% per hari, dijamin tanpa rugi. Transfer ke rekening admin untuk aktivasi akun. Promo berakhir malam ini.",investasi_bodong,template_formal
+"biaaya admin Telkomsel naik jd 150rb, klik bit.ly/klaimku kalo mau tetep pake tarif lama",fake_call_center,template_informal
+"Cuan dari Crypto tanpa ribet! Profit 10% per hari, dijamin tanpa rugi. Transfer ke rekening admin untuk aktivasi akun. Buruan sebelum penuh.",investasi_bodong,template_formal
+join grup trading Binomo untung dijamin tiap hari depo awal 500rb,investasi_bodong,template_informal
+kerja sampingan dr rumah komisi 3jt deposit dulu 250rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"pinjaman kamu nunggak, segera lunasi 250rb ke 6374684234, kalo ngga data disebar",pinjol_ilegal,template_informal
+"Gabung grup VIP Quotex VIP. Bukti transfer member: Rp 20 juta masuk hari ini. Minimal deposit Rp 500rb. Tidak perlu ngerti trading, sistem yang kerja!",investasi_bodong,template_formal
+tagihan bri menunggak 3 hari bayar hari ini atau kontak darurat kami teror,pinjol_ilegal,template_informal
+kaartu kamu bermasalah klik http://klaim-bankxyz buat update data m-banking segera,fake_call_center,template_informal
+"butuh aadmin online no exp dibayar harian, chat http://klaim-bank.xyz, ada biaya daftar 100rb",lowongan_kerja_palsu,template_informal
+"wa kamu terpilih dpt emas 10 gram, hubungi admin 0856-1122-3344 skrg juga sblm hangus",phishing_hadiah,template_informal
+"Binomo auto cuan, ga mungkin rugi, kirim 250rb ke 7788990011",investasi_bodong,template_informal
+bapak/ibu kami dari mandiri mohon sebutkan otp utk membatalkan transaksi,fake_call_center,template_informal
+"INFO LOKER! admin online gaji Rp 3 juta/bulan tanpa pengalaman. Daftar di wa.me/62220100 sekarang. Transfer biaya seragam dulu, dikembalikan bulan depan.",lowongan_kerja_palsu,template_formal
+tagihan dana menunggak 5 hari bayar hari ini atau kontak darurat kami teror,pinjol_ilegal,template_informal
+"PERINGATAN Mandiri: Biaya admin naik menjadi Rp 150.000 per bulan. Konfirmasi PIN dan kode OTP sekarang. Mohon segera, ini mendesak.",fake_call_center,template_formal
+"kripto auto cuan, ga mungkin rugi, kirim 500rb ke 7788990011",investasi_bodong,template_informal
+modal 100rb bisa jd 5jt seminggu profit pasti tf ke norek 1234567890 buat daftar,investasi_bodong,template_informal
+"kak barangnya udah aku bayar, dananya tertahan, klik http://klaim-bank.xyz buat cairin, masukin pin",marketplace_palsu,template_informal
+"Halo, ini petugas DANA. Terdeteksi transaksi mencurigakan di kartu Anda. Hubungi 0813-9012-1122 untuk membatalkan. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"INFO LOKER! kerja like, subscribe dan review produk, bayaran harian Rp 500 ribu. Chat admin di t.me/loker3456. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"Selamat! Pembeli telah membayar lewat TikTok Shop. Untuk melepas dana, klik link verifikasi dan masukkan PIN ATM Anda. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+join grup trading kripto untung dijamin tiap hari depo awal 500rb,investasi_bodong,template_informal
+km pemenaang giveaway uang 50 juta! klik http://klaim-bank.xyz trus kirim pin ya,phishing_hadiah,template_informal
+info loker paart time gaji 6jt tanpa syarat tf 500rb utk pelatihan,lowongan_kerja_palsu,template_informal
+PERINGATAN Mandiri! Sistem kami mendeteksi percobaan akses ilegal. Lindungi saldo Anda dengan mengirim kode OTP ke nomor ini sekarang juga.,fake_call_center,template_formal
+"Halo, ini petugas DANA. Rekening Anda akan diblokir karena data belum diperbarui. Konfirmasi PIN dan kode OTP sekarang. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"Selamat! Anda beruntung. Anda pemenang program loyalitas Shopee, hadiah Rp 100. Hubungi CS 0812-2201-7890 dan siapkan PIN ATM. Hangus hari ini!",phishing_hadiah,template_formal
+"Dibutuhkan segera: kerja like, subscribe dan review produk, bayaran harian Rp 700 ribu. Chat admin di t.me/loker2201. Biaya administrasi Rp 200.000 di awal.",lowongan_kerja_palsu,template_formal
+"Yth nasabah BCA, rekening Anda akan diblokir dalam 1 jam. Segera konfirmasi PIN & OTP di nomor kami 0813-9999-8888 agar tidak terblokir permanen.",fake_call_center,template_formal
+"kerja sampingan dr rumah komisi 3jt, deposit dulu 250rb buat modal tugas",lowongan_kerja_palsu,template_informal
+"gaaji bulan ini udah masuk, makan di luar yuk",aman,template_informal
+"aadmin OLX: dana belum cair, tf 2jt biaya verifikasi dulu",marketplace_palsu,template_informal
+"Peluang emas bersama Binomo! Profit 10% per hari, dijamin tanpa rugi. Ajak teman dapat bonus referral. Slot tinggal 5 orang!",investasi_bodong,template_formal
+"Pemenang undian Indosat! Rp 75.000.000 menunggu Anda. Klik http://undian-pemenang.id, masukkan PIN ATM untuk konfirmasi. Jangan sampai kedaluwarsa!",phishing_hadiah,template_formal
+"Kami dari Customer Care Telkomsel. Terdeteksi transaksi mencurigakan di kartu Anda. Konfirmasi PIN dan kode OTP sekarang. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+Perhatian! Tagihan Quotex Anda jatuh tempo. Anda terlambat bayar Rp 10000 ribu. Kami akan hubungi seluruh keluarga dan atasan Anda. Batas hari ini.,pinjol_ilegal,template_formal
+"Investasi saham gorengan! Deposit Rp 1 juta jadi Rp 5 juta dalam 3 hari. Dijamin untung 500%, dijamin return harian 10%. Daftar sekarang, slot terbatas!",investasi_bodong,template_formal
+"tagihan wifi bulan ini 1 juta ya, nanti aku tf ke kamu",aman,template_informal
+"bapak/ibu kami dari telkomsel, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+km pemenang giveaway motor! klik bit.ly/v3rif trus kirim pin ya,phishing_hadiah,template_informal
+Kami tim penagihan Crypto. Anda terlambat bayar Rp 2500 ribu. Kami akan hubungi seluruh keluarga dan atasan Anda. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"pembeli olx sudah transfer, tinggal verifikasi bit.ly/klaimku + otp biar masuk saldo",marketplace_palsu,template_informal
+"anda menang undian bca hadiah motor, tf biaya admin 500rb dlu biar cair",phishing_hadiah,template_informal
+"Selamat! Pembeli telah membayar lewat Instagram shop. Untuk melepas dana, klik link verifikasi dan masukkan PIN ATM Anda. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+"Siang, jadwal kuliah kantin dimajukan jam 13. Jangan lupa bawa laptop.",aman,template_formal
+halo kak ini cs Mandiri akun kakak mau diblokir tolong kasih kode otp yg masuk ya,fake_call_center,template_informal
+pinjaaman kamu nunggak segera lunasi 100rb ke 7788990011 kalo ngga data disebar,pinjol_ilegal,template_informal
+"bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak, tf ke 9081726354",pinjol_ilegal,template_informal
+PERINGATAN BCA: Terdeteksi transaksi mencurigakan di kartu Anda. Hubungi 0813-7788-1122 untuk membatalkan. Waktu Anda 30 menit.,fake_call_center,template_formal
+"Loker CS online! Gaji Rp 7 juta/bulan + bonus. Klik link pendaftaran, kirim foto KTP dan bayar biaya administrasi Rp 250.000.",lowongan_kerja_palsu,template_formal
+"Ada pembeli serius di Tokopedia. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Tokopedia. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+butuh admin online no exp dibayar harian chat bitly/klaimku ada biaya daftar 100rb,lowongan_kerja_palsu,template_informal
+"PERINGATAN Shopee: Biaya admin naik menjadi Rp 150.000 per bulan. Konfirmasi PIN dan kode OTP sekarang. Mohon segera, ini mendesak.",fake_call_center,template_formal
+"pinjaman kamu nunggak, segera lunasi 1 juta ke 7788990011, kalo ngga data disebar",pinjol_ilegal,template_informal
+selamat no kamu kepilih menang mobil. buka https://cair-dana.top isi data sama kode otp ya,phishing_hadiah,template_informal
+Cuan dari arbitrage crypto tanpa ribet! Modal Rp 100rb balik Rp 1 juta/minggu. Diatur mentor profesional. Transfer ke rekening admin untuk aktivasi akun.,investasi_bodong,template_formal
+"Hei, sudah sampai rumah? Hati-hati di jalan ya, hujan deras tadi katanya.",aman,template_formal
+"INFO LOKER! part time dari rumah, 1 jam sehari, penghasilan Rp 3 juta. Chat admin di t.me/loker9012. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+kamu dapet hadiah emas 10 gram dr Mandiri buat ngeklaim transfer 2jt dulu ke norek 1234567890,phishing_hadiah,template_informal
+"biaaya admin DANA naik jd 150rb, klik http://klaim-bank.xyz kalo mau tetep pake tarif lama",fake_call_center,template_informal
+km pemenang giveaway mobil! klik bit.ly/klaimku trus kirim pin ya,phishing_hadiah,template_informal
+"kerja sampingan dr rumah komisi 4jt, deposit dulu 2jt buat modal tugas",lowongan_kerja_palsu,template_informal
+"baayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak, tf ke 7788990011",pinjol_ilegal,template_informal
+"baayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak, tf ke 1234567890",pinjol_ilegal,template_informal
+"Pesanan di OLX sudah dibayar pembeli. Kurir menunggu, verifikasi dulu. Isi data kartu di bit.ly/OLXcair. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+tolong kirim tugasnya lewat email dulu ya,aman,template_informal
+"Selamat! Pembeli sudah membayar lewat Facebook Marketplace. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Facebook Marketplace. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"admin FB Marketplace: dana belum cair, tf 1 juta biaya verifikasi dulu",marketplace_palsu,template_informal
+pembeli fb maarketplace sudah transfer tinggal verifikasi https://cair-danatop + otp biar masuk saldo,marketplace_palsu,template_informal
+"baapak/ibu kami dari BCA, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+"pinjaman kamu nunggak, segera lunasi 2jt ke 9081726354, kalo ngga data disebar",pinjol_ilegal,template_informal
+"aaku mau beli, kirim dulu no rek + kode otp buat konfirmasi shopee",marketplace_palsu,template_informal
+"INFO LOKER! Dibutuhkan kurir online, gaji Rp 4 jt/bln, WFH, cukup like & subscribe. Daftar: wa.me/62812xxx. Deposit pelatihan Rp 150.000.",lowongan_kerja_palsu,template_formal
+SELAMAT! Anda terpilih sebagai pemenang undian BRI. Hadiah umroh gratis + Rp 10 juta. Klaim sekarang di http://hadiah-resmi.click sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+besok ketemuan di kampus jam 10 ya jangan lupa bawa laptop,aman,template_informal
+"Binomo auto cuan, ga mungkin rugi, kirim 2jt ke 7788990011",investasi_bodong,template_informal
+"jgn kaasih tau kode otp kamu ke siapa pun ya, lagi rame penipuan",aman,template_informal
+"kak barangnya udah aku bayar, dananya tertahan, klik bit.ly/klaimku buat cairin, masukin pin",marketplace_palsu,template_informal
+"kak barangnya udah aku bayar, dananya tertahan, klik https://cair-dana.top buat cairin, masukin pin",marketplace_palsu,template_informal
+jgn kaasih tau kode otp kamu ke siapa pun ya lagi rame penipuan,aman,template_informal
+Binomo auto cuan ga mungkin rugi kirim 250rb ke 7788990011,investasi_bodong,template_informal
+"pembeli tokopedia sudah transfer, tinggal verifikasi http://klaim-bank.xyz + otp biar masuk saldo",marketplace_palsu,template_informal
+"aku mau beli, kirim dulu no rek + kode otp buat konfirmasi FB Marketplace",marketplace_palsu,template_informal
+"Oke, jadwal kuliah perpus dimajukan jam 9. Makasih banyak.",aman,template_formal
+"Selamat! Pembeli telah membayar lewat Facebook Marketplace. Untuk melepas dana, klik link verifikasi dan masukkan PIN ATM Anda. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+Info resmi: Nomor Anda terpilih mendapat hadiah Rp 25 dari BRI. Isi data di bit.ly/BRIhadiah dan kirim kode OTP. Segera sebelum hadiah dibatalkan.,phishing_hadiah,template_formal
+Ini kolektor pinjaman online. Hutang belum dilunasi sampai hari ini. Segera transfer ke rekening ini atau data disebar ke kontak. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"ajak teman dpt bonus referral, setor 500rb langsung return mingguan",investasi_bodong,template_informal
+modal 250rb bisa jd 5jt seminggu profit pasti tf ke norek 6374684234 buat daftar,investasi_bodong,template_informal
+"kamu dapet hadiah uang 50 juta dr BRI, buat ngeklaim transfer 1 juta dulu ke norek 9081726354",phishing_hadiah,template_informal
+"Lowongan WFH: kerja like, subscribe dan review produk, bayaran harian Rp 700 ribu. Daftar di wa.me/62778800 sekarang. Biaya administrasi Rp 200.000 di awal.",lowongan_kerja_palsu,template_formal
+"Siang, nanti malam jadi makan bareng? Kabari kalau telat ya.",aman,template_formal
+"pinjaman kamu nunggak, segera lunasi 500rb ke 6374684234, kalo ngga data disebar",pinjol_ilegal,template_informal
+"join grup traading kripto, untung dijamin tiap hari, depo awal 100rb",investasi_bodong,template_informal
+"kerja sampingan dr rumah komisi 8jt, deposit dulu 2jt buat modal tugas",lowongan_kerja_palsu,template_informal
+kerja sampingan dr rumah komisi 3jt deposit dulu 100rb buat modal tugas,lowongan_kerja_palsu,template_informal
+"Ada pembeli serius di OLX. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/OLXcair. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+SELAMAT! Anda terpilih sebagai pemenang undian Indosat. Hadiah Rp 50 juta. Klaim sekarang di http://undian-pemenang.id sebelum hangus. CS: 0812-3456-7890.,phishing_hadiah,template_formal
+"Eh, besok kita ketemu di kampus jam 13 ya. Makasih banyak.",aman,template_formal
+robot forex auto cuan ga mungkin rugi kirim 500rb ke 1234567890,investasi_bodong,template_informal
+aku mau beli kirim dulu no rek + kode otp buat konfirmasi olx,marketplace_palsu,template_informal
+"Ada pembeli serius di OLX. Untuk melepas dana, klik link verifikasi. Kirim kode OTP ke admin OLX. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Halo, jadwal kuliah perpus dimajukan jam 9. Sampai ketemu!",aman,template_formal
+"Yth nasabah Mandiri, rekening Anda akan diblokir dalam 1 jam. Segera konfirmasi PIN & OTP di nomor kami 0813-9999-8888 agar tidak terblokir permanen.",fake_call_center,template_formal
+"Kami kurir SiCepat. Paket Anda kena ongkir tambahan, segera transfer Rp 100.000 ke rekening ini agar paket tidak dikembalikan.",marketplace_palsu,template_formal
+Informasi resmi Mandiri: nomor Anda mendapatkan iPhone 16 Pro. Silakan isi data di http://hadiah-resmi.click untuk verifikasi pemenang.,phishing_hadiah,template_formal
+PERINGATAN Shopee: Rekening Anda akan diblokir karena data belum diperbarui. Klik http://Shopee-care.digital untuk verifikasi. Waktu Anda 30 menit.,fake_call_center,template_formal
+"Lowongan WFH: part time dari rumah, 1 jam sehari, penghasilan Rp 8 juta. Hubungi HRD 0821-7788-5566. Biaya administrasi Rp 200.000 di awal.",lowongan_kerja_palsu,template_formal
+Informasi resmi BCA: nomor Anda mendapatkan Rp 25.000.000. Silakan isi data di http://undian-pemenang.id untuk verifikasi pemenang.,phishing_hadiah,template_formal
+Ini kolektor pinjaman online. Hutang belum dilunasi sampai hari ini. Kami akan hubungi seluruh keluarga dan atasan Anda. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+"Selamat! Pembeli sudah membayar lewat Tokopedia. Dana tertahan, perlu konfirmasi rekening. Masukkan PIN ATM di http://Tokopedia-cair.xyz. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Halo, nanti malam jadi makan bareng? Sampai ketemu!",aman,template_formal
+kamu dapet hadiah uang 50 juta dr bri buat ngeklaim transfer 2jt dulu ke norek 7788990011,phishing_hadiah,template_informal
+"Oke, besok kita ketemu di kampus jam 10 ya. Kabari kalau telat ya.",aman,template_formal
+"Pesanan di Tokopedia sudah dibayar pembeli. Dana tertahan, perlu konfirmasi rekening. Masukkan PIN ATM di http://Tokopedia-cair.xyz. Segera sebelum pembayaran ditarik.",marketplace_palsu,template_formal
+"Ada pembeli serius di Facebook Marketplace. Untuk melepas dana, klik link verifikasi. Masukkan PIN ATM di http://Facebook Marketplace-cair.digital. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+butuh admin online no exp dibayar harian chat http://klaim-bankxyz ada biaya daftar 250rb,lowongan_kerja_palsu,template_informal
+"join grup traading kripto, untung dijamin tiap hari, depo awal 2jt",investasi_bodong,template_informal
+"ajak teman dpt bonus referral, setor 1 juta langsung return mingguan",investasi_bodong,template_informal
+"Lowongan WFH: kerja like, subscribe dan review produk, bayaran harian Rp 700 ribu. Chat admin di t.me/loker9012. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"Oke, nanti malam jadi makan bareng? Kabari kalau telat ya.",aman,template_formal
+"INFO LOKER! Dibutuhkan admin online, gaji Rp 3 jt/bln, WFH, cukup like & subscribe. Daftar: wa.me/62812xxx. Deposit pelatihan Rp 150.000.",lowongan_kerja_palsu,template_formal
+INFO LOKER! admin online gaji Rp 8 juta/bulan tanpa pengalaman. Hubungi HRD 0821-7788-5566. Wajib deposit Rp 150.000 untuk pelatihan.,lowongan_kerja_palsu,template_formal
+"Selamat! Pembeli sudah membayar lewat Shopee. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Shopee. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+pembeli Shopee sudah transfer tinggal verifikasi bitly/v3rif + otp biar masuk saldo,marketplace_palsu,template_informal
+kak barangnya udah aku bayar dananya tertahan klik https://cair-danatop buat cairin masukin pin,marketplace_palsu,template_informal
+PEMENANG UNDIAN! Nomor Anda terpilih mendapat hadiah Rp 50 dari DANA. Klaim di http://DANA-klaim.xyz dengan verifikasi PIN/OTP. Hangus hari ini!,phishing_hadiah,template_formal
+"aku mau beli, kirim dulu no rek + kode otp buat konfirmasi olx",marketplace_palsu,template_informal
+"admin shopee: dana belum cair, tf 100rb biaya verifikasi dulu",marketplace_palsu,template_informal
+"modal 1 juta bisa jd 5jt seminggu, profit pasti, tf ke norek 9081726354 buat daftar",investasi_bodong,template_informal
+kripto auto cuan ga mungkin rugi kirim 100rb ke 6374684234,investasi_bodong,template_informal
+"Ada pembeli serius di Facebook Marketplace. Untuk melepas dana, klik link verifikasi. Isi data kartu di bit.ly/Facebook Marketplacecair. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+tolong kirim tugaasnya lewat email dulu ya,aman,template_informal
+"PEMENANG UNDIAN! Anda pemenang program loyalitas Shopee, hadiah Rp 100. Isi data di bit.ly/Shopeehadiah dan kirim kode OTP. Batas 1 jam.",phishing_hadiah,template_formal
+"Ada pembeli serius di Shopee. Dana tertahan, perlu konfirmasi rekening. Isi data kartu di bit.ly/Shopeecair. Wajib dalam 30 menit.",marketplace_palsu,template_formal
+"Kak, bisa tolong fotokan halaman 45 buku ekonomi? Lupa bawa bukunya, besok ketemuan di perpus jam 2 siang ya.",aman,template_formal
+"join grup trading quotex, untung dijamin tiap hari, depo awal 1 juta",investasi_bodong,template_informal
+"join grup traading quotex, untung dijamin tiap hari, depo awal 1 juta",investasi_bodong,template_informal
+"Investasi Binomo-like! Deposit Rp 1 juta jadi Rp 5 juta dalam 3 hari. Dijamin untung 500%, dijamin return harian 10%. Daftar sekarang, slot terbatas!",investasi_bodong,template_formal
+Ini kolektor pinjaman online. Anda terlambat bayar Rp 2500 ribu. Segera transfer ke rekening ini atau data disebar ke kontak. Kami tunggu 2 jam.,pinjol_ilegal,template_formal
+pinjaman kamu nunggak segera lunasi 1 juta ke 9081726354 kalo ngga data disebar,pinjol_ilegal,template_informal
+"halo kak ini cs dana, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+"kaartu kamu bermasalah, klik bit.ly/klaimku buat update data m-banking segera",fake_call_center,template_informal
+"Pesanan di OLX sudah dibayar pembeli. Dana tertahan, perlu konfirmasi rekening. Isi data kartu di bit.ly/OLXcair. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+Bank Mandiri: kartu ATM Anda terdeteksi digunakan di luar negeri. Hubungi call center palsu segara: 021-xxx. Berikan kode OTP untuk keamanan.,fake_call_center,template_formal
+Ini kolektor pinjaman online. Anda terlambat bayar Rp 5000 ribu. Segera transfer ke rekening ini atau data disebar ke kontak. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+bayar kos udah belum? aku mau tf sekarang,aman,template_informal
+"aajak teman dpt bonus referral, setor 500rb langsung return mingguan",investasi_bodong,template_informal
+"admin Shopee: dana belum cair, tf 100rb biaya verifikasi dulu",marketplace_palsu,template_informal
+Perhatian! Tagihan Robot Trading Anda jatuh tempo. Hutang belum dilunasi sampai hari ini. Foto KTP Anda akan kami sebarkan. Batas hari ini.,pinjol_ilegal,template_formal
+Cuan dari Robot Trading tanpa ribet! Modal Rp 100rb balik Rp 1 juta per minggu. Ajak teman dapat bonus referral. Slot tinggal 5 orang!,investasi_bodong,template_formal
+PEMENANG UNDIAN! Rekening Anda memenangkan undian Indosat senilai Rp 25. Klaim di http://Indosat-klaim.top dengan verifikasi PIN/OTP. Batas 1 jam.,phishing_hadiah,template_formal
+"besok ketemuaan di lab jam 9 ya, jangan lupa bawa laptop",aman,template_informal
+"Ada pembeli serius di Facebook Marketplace. Dana tertahan, perlu konfirmasi rekening. Kirim kode OTP ke admin Facebook Marketplace. Jika tidak, transaksi dibatalkan.",marketplace_palsu,template_formal
+"INFO LOKER! part time dari rumah, 1 jam sehari, penghasilan Rp 7 juta. Chat admin di t.me/loker7788. Wajib deposit Rp 150.000 untuk pelatihan.",lowongan_kerja_palsu,template_formal
+"kartu kamu bermasalah, klik bit.ly/v3rif buat update data m-banking segera",fake_call_center,template_informal
+"Halo, ini petugas BRI. Rekening Anda akan diblokir karena data belum diperbarui. Hubungi 0813-3456-1122 untuk membatalkan. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"Gabung member VIP Quotex! Dana dikelola trader profesional, untung pasti. Daftar lewat wa.me/62778800, kuota terbatas. Slot tinggal 5 orang!",investasi_bodong,template_formal
+"pinjaman kamu nunggak, segera lunasi 100rb ke 9081726354, kalo ngga data disebar",pinjol_ilegal,template_informal
+"tagihan bca menunggak 5 hari, bayar hari ini atau kontak darurat kami teror",pinjol_ilegal,template_informal
+"binomo aauto cuan, ga mungkin rugi, kirim 500rb ke 9081726354",investasi_bodong,template_informal
+"kaartu kamu bermasalah, klik https://cair-dana.top buat update data m-banking segera",fake_call_center,template_informal
+bapak/ibu kami dari bri mohon sebutkan otp utk membatalkan transaksi,fake_call_center,template_informal
+"kaami kolektor, telat 7 hari, kami hubungi keluarga + kantor kamu kalo ga lunas",pinjol_ilegal,template_informal
+Perhatian! Tagihan Crypto Anda jatuh tempo. Pinjaman Anda menunggak 7788 hari. Foto KTP Anda akan kami sebarkan. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+Perhatian! Tagihan Binomo Anda jatuh tempo. Hutang belum dilunasi sampai hari ini. Kami akan hubungi seluruh keluarga dan atasan Anda. Jangan abaikan peringatan ini.,pinjol_ilegal,template_formal
+"anda menang undian bri hadiah iphone 15, tf biaya admin 2jt dlu biar cair",phishing_hadiah,template_informal
+"info maandiri: ada transaksi aneh di rekening, konfirmasi pin dlu biar aman",fake_call_center,template_informal
+bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak tf ke 9081726354,pinjol_ilegal,template_informal
+"Makasih ya udah dibantu pindahan kemarin. Traktir kopi besok aku yang bayar, janji!",aman,template_formal
+"join grup trading binomo, untung dijamin tiap hari, depo awal 2jt",investasi_bodong,template_informal
+robot forex auto cuan ga mungkin rugi kirim 100rb ke 1234567890,investasi_bodong,template_informal
+"Siang, jadwal kuliah kantin dimajukan jam 10. Kabari kalau telat ya.",aman,template_formal
+"pembeli tokopedia sudah transfer, tinggal verifikasi https://cair-dana.top + otp biar masuk saldo",marketplace_palsu,template_informal
+kartu kamu bermasalah klik bitly/v3rif buat update data m-banking segera,fake_call_center,template_informal
+"admin shopee: dana belum cair, tf 1 juta biaya verifikasi dulu",marketplace_palsu,template_informal
+"aadmin Shopee: dana belum cair, tf 250rb biaya verifikasi dulu",marketplace_palsu,template_informal
+tagihan shopee menunggak 7 hari bayar hari ini atau kontak darurat kami teror,pinjol_ilegal,template_informal
+"kaak barangnya udah aku bayar, dananya tertahan, klik http://klaim-bank.xyz buat cairin, masukin pin",marketplace_palsu,template_informal
+km pemenang giveaway uang 50 juta klik https://cair-danatop trus kirim pin ya,phishing_hadiah,template_informal
+"Halo, ini petugas DANA. Terdeteksi transaksi mencurigakan di kartu Anda. Klik http://DANA-care.online untuk verifikasi. Waktu Anda 30 menit.",fake_call_center,template_formal
+"info lowongaan magang di kampus udah dibuka, cek di web resmi jurusan",aman,template_informal
+info loker part time gaji 4jt tanpa syarat tf 2jt utk pelatihan,lowongan_kerja_palsu,template_informal
+kamu dapet hadiah uang 50 juta dr shopee buat ngeklaim transfer 250rb dulu ke norek 1234567890,phishing_hadiah,template_informal
+bayar hutangmu skrg atau foto ktp kamu kita sebar ke semua kontak tf ke 6374684234,pinjol_ilegal,template_informal
+"quotex auto cuan, ga mungkin rugi, kirim 500rb ke 6374684234",investasi_bodong,template_informal
+"halo kak ini cs BRI, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+"bapak/ibu kami dari Telkomsel, mohon sebutkan otp utk membatalkan transaksi",fake_call_center,template_informal
+"admin FB Marketplace: dana belum cair, tf 500rb biaya verifikasi dulu",marketplace_palsu,template_informal
+info lowongan magang di kampus udah dibuka cek di web resmi jurusan,aman,template_informal
+"binomo auto cuan, ga mungkin rugi, kirim 1 juta ke 6374684234",investasi_bodong,template_informal
+"halo kak ini cs mandiri, akun kakak mau diblokir, tolong kasih kode otp yg masuk ya",fake_call_center,template_informal
+PENAGIHAN! Anda memiliki tunggakan pinjol Rp 2.000.000. Bayar hari ini atau kami laporkan ke keluarga & kantor Anda. Transfer ke 0987654321.,pinjol_ilegal,template_formal
+"haadiah ulang tahun buat adik udah aku beli, tinggal bungkus",aman,template_informal
+"hadiah ulang tahun buat adik udah aku beli, tinggal bungkus",aman,template_informal
+kamu udah makan? aku bawain nasi ke kantin,aman,template_informal
+"PERINGATAN Shopee: Biaya admin naik menjadi Rp 150.000 per bulan. Hubungi 0813-3456-1122 untuk membatalkan. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+"pembeli tokopedia sudah transfer, tinggal verifikasi bit.ly/v3rif + otp biar masuk saldo",marketplace_palsu,template_informal
+"Halo, ini petugas Indosat. Rekening Anda akan diblokir karena data belum diperbarui. Klik http://Indosat-care.top untuk verifikasi. Jika tidak, akun ditutup hari ini.",fake_call_center,template_formal
+link zoom kuliahnya: https://zoom.us/j/123456789 jam 9,aman,template_informal
